@@ -1,0 +1,31 @@
+*{
+    font-size: 1.2em;
+    color: #fff;
+}
+
+h2{
+    color: grey;
+}
+
+.bg-orange{
+    background-color: orange;
+}
+
+.bg-grey{
+    background-color: grey;
+}
+
+.display-inline{
+display: inline;
+}
+
+.display-block{
+    display: block;
+    height: 150px;
+    margin-top:15px ;
+}
+.display-inline-block{
+    display:inline-block;
+    height: 150px;
+    width: 150px;
+}

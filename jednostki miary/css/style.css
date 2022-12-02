@@ -1,0 +1,29 @@
+.container div {
+    height: 50px;
+    background-color: orange;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.container {
+    font-size: 30px;
+}
+
+.px {
+    width: 600px;
+}
+
+.percent{
+    width: 40%;
+}
+
+.em{
+    width: 25em;
+    font-size: 1.2em;
+}
+
+div.viewport{
+    height: 10vh;
+    width: 50vw;
+   
+}

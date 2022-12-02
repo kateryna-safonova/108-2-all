@@ -1,0 +1,24 @@
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+.block{
+  background:#808080;
+  flex-basis: 50%;
+}
+}
+.noMargin{
+  margin: 0px;
+}
+.block_one{
+  background-color: #fea500;
+}
+.block_two{
+  background-color: #fea500;
+}
+.block_three{
+  background-color: #fea500;
+}
+.block_our{
+  background-color: #fea500;
+}
